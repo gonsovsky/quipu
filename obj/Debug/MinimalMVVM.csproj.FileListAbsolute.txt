@@ -1,0 +1,17 @@
+C:\WPF3\MinimalMVVM\bin\Debug\MinimalMVVM.exe
+C:\WPF3\MinimalMVVM\bin\Debug\MinimalMVVM.pdb
+C:\WPF3\MinimalMVVM\obj\Debug\MinimalMVVM.csprojAssemblyReference.cache
+C:\WPF3\MinimalMVVM\obj\Debug\Views\ConverterControl.g.cs
+C:\WPF3\MinimalMVVM\obj\Debug\Views\ConvertWindow.g.cs
+C:\WPF3\MinimalMVVM\obj\Debug\App.g.cs
+C:\WPF3\MinimalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WPF3\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.cache
+C:\WPF3\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.lref
+C:\WPF3\MinimalMVVM\obj\Debug\Views\ConverterControl.baml
+C:\WPF3\MinimalMVVM\obj\Debug\Views\ConvertWindow.baml
+C:\WPF3\MinimalMVVM\obj\Debug\MinimalMVVM.g.resources
+C:\WPF3\MinimalMVVM\obj\Debug\MinimalMVVM.Properties.Resources.resources
+C:\WPF3\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.GenerateResource.cache
+C:\WPF3\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.CoreCompileInputs.cache
+C:\WPF3\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+C:\WPF3\MinimalMVVM\obj\Debug\MinimalMVVM.pdb

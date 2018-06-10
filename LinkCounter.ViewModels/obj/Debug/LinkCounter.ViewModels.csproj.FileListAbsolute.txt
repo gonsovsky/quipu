@@ -1,0 +1,14 @@
+C:\@Spiegel\LinkCounter.ViewModels\obj\Debug\LinkCounter.ViewModels.csprojAssemblyReference.cache
+C:\@Spiegel\LinkCounter.ViewModels\obj\Debug\LinkCounter.ViewModels.csproj.CoreCompileInputs.cache
+C:\@Spiegel\LinkCounter.ViewModels\bin\Debug\LinkCounter.ViewModels.dll
+C:\@Spiegel\LinkCounter.ViewModels\bin\Debug\LinkCounter.ViewModels.pdb
+C:\@Spiegel\LinkCounter.ViewModels\bin\Debug\LinkCounter.Commands.dll
+C:\@Spiegel\LinkCounter.ViewModels\bin\Debug\LinkCounter.Models.dll
+C:\@Spiegel\LinkCounter.ViewModels\bin\Debug\HtmlAgilityPack.dll
+C:\@Spiegel\LinkCounter.ViewModels\bin\Debug\LinkCounter.Commands.pdb
+C:\@Spiegel\LinkCounter.ViewModels\bin\Debug\LinkCounter.Models.pdb
+C:\@Spiegel\LinkCounter.ViewModels\bin\Debug\HtmlAgilityPack.pdb
+C:\@Spiegel\LinkCounter.ViewModels\bin\Debug\HtmlAgilityPack.xml
+C:\@Spiegel\LinkCounter.ViewModels\obj\Debug\LinkCounter.ViewModels.csproj.CopyComplete
+C:\@Spiegel\LinkCounter.ViewModels\obj\Debug\LinkCounter.ViewModels.dll
+C:\@Spiegel\LinkCounter.ViewModels\obj\Debug\LinkCounter.ViewModels.pdb
